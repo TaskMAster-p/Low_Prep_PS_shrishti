@@ -1,0 +1,81 @@
+robots:
+  - name: "robot1"
+    x_pose: -4.0
+    y_pose: -6.0
+    z_pose: 0.01
+  - name: "robot2"
+    x_pose: -2.5
+    y_pose: 7.0
+    z_pose: 0.01
+  - name: "robot3"
+    x_pose: 7.0
+    y_pose: -4.5
+    z_pose: 0.01
+  - name: "robot4"
+    x_pose: 18.0
+    y_pose: -9.0
+    z_pose: 0.01
+  - name: "robot5"
+    x_pose: 24.0
+    y_pose: -1.5
+    z_pose: 0.01
+  - name: "robot6"
+    x_pose: 24.0
+    y_pose: 6.5
+    z_pose: 0.01
+  - name: "robot7"
+    x_pose: 24.0
+    y_pose: 16.0
+    z_pose: 0.01
+  - name: "robot8"
+    x_pose: 16.0
+    y_pose: 20.0
+    z_pose: 0.01
+  - name: "robot9"
+    x_pose: 9.0
+    y_pose: 16.0
+    z_pose: 0.01
+  - name: "robot10"
+    x_pose: -1.5
+    y_pose: 21.0
+    z_pose: 0.01 
+  - name: "robot11"
+    x_pose: -5.0
+    y_pose: -5.0
+    z_pose: 0.01
+  - name: "robot12"
+    x_pose: -3.5
+    y_pose: 6.0
+    z_pose: 0.01
+  - name: "robot13"
+    x_pose: 8.0
+    y_pose: -5.5
+    z_pose: 0.01
+  - name: "robot14"
+    x_pose: 19.0
+    y_pose: -10.0
+    z_pose: 0.01
+  - name: "robot15"
+    x_pose: 25.0
+    y_pose: -0.5
+    z_pose: 0.01
+  - name: "robot16"
+    x_pose: 25.0
+    y_pose: 5.5
+    z_pose: 0.01
+  - name: "robot17"
+    x_pose: 25.0
+    y_pose: 15.0
+    z_pose: 0.01
+  - name: "robot18"
+    x_pose: 17.0
+    y_pose: 19.0
+    z_pose: 0.01
+  - name: "robot19"
+    x_pose: 10.0
+    y_pose: 15.0
+    z_pose: 0.01
+  - name: "robot20"
+    x_pose: -2.5
+    y_pose: 20.0
+    z_pose: 0.01 
